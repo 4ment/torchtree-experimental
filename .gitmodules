@@ -1,0 +1,6 @@
+[submodule "datasets/space-time"]
+	path = datasets/space-time
+	url = https://github.com/ebov/space-time.git
+[submodule "datasets/wnv_north_america"]
+	path = datasets/wnv_north_america
+	url = https://github.com/sdellicour/wnv_north_america.git
